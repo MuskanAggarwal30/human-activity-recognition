@@ -32,19 +32,6 @@ Since the dataset is publicly available, it is referenced instead of being uploa
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🛠 Technology Stack
 
 | Category | Tools / Technologies Used |
