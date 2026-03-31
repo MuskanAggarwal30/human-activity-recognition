@@ -51,8 +51,8 @@ Since the dataset is publicly available, it is referenced instead of being uploa
 |----------|---------------------------|
 | Programming Language | Python |
 | Data Processing | NumPy, Pandas |
-| Machine Learning | Scikit-learn |
-| Deep Learning | TensorFlow, Keras |
+| Machine Learning | Random forest, Decision tree, KNN, SVM  |
+| Deep Learning | CNN, LSTM |
 | Data Visualization | Matplotlib, Seaborn |
 | Explainable AI | SHAP, LIME |
 | Development Environment | Jupyter Notebook, Google Colab |
