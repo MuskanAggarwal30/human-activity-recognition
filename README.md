@@ -1,9 +1,13 @@
-# Human Activity Recognition Using Smartphones
+# 📱 Human Activity Recognition (HAR) Using Smartphones
+> **A Comparative Study of Machine Learning and Deep Learning on UCI Sensor Data**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Dataset-UCI%20HAR-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-This project focuses on building a Human Activity Recognition system using smartphone sensor data. The goal is to classify daily activities such as walking, sitting, and standing using Machine Learning and Deep Learning techniques.
-
----
 
 ## 🚀 About the Project
 
@@ -27,51 +31,66 @@ Since the dataset is publicly available, it is referenced instead of being uploa
 
 ---
 
-## 🛠 Tech Stack
 
-### Language
-- Python
 
-### Libraries
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- TensorFlow / Keras
 
-### Environment
-- Jupyter Notebook
-- VS Code
-- GitHub (version control)
 
----
 
-## ⚙️ Implementation Plan
 
-1. Load and understand dataset
-2. Perform preprocessing verification
-3. Train baseline ML models:
-   - KNN
-   - Decision Tree
-   - Random Forest
-   - SVM
-4. Implement Deep Learning models:
-   - CNN
-   - LSTM
-5. Compare performance using accuracy metrics
+
+
+
+
+
+
+
+
+## 🛠 Technology Stack
+
+| Category | Tools / Technologies Used |
+|----------|---------------------------|
+| Programming Language | Python |
+| Data Processing | NumPy, Pandas |
+| Machine Learning | Scikit-learn |
+| Deep Learning | TensorFlow, Keras |
+| Data Visualization | Matplotlib, Seaborn |
+| Explainable AI | SHAP, LIME |
+| Development Environment | Jupyter Notebook, Google Colab |
+| Version Control | Git, GitHub |
 
 ---
 
-## 📊 Expected Outcome
+## 🔄 Project Workflow
+            Dataset Collection
+                    │
+                    ▼
+            Data Preprocessing
+                    │
+                    ▼
+          Machine Learning Models
+    (KNN, Decision Tree, Random Forest, SVM)
+                    │
+                    ▼
+          Model Evaluation
+    (Accuracy, Confusion Matrix, Reports)
+                    │
+                    ▼
+          Deep Learning Models
+             (CNN, LSTM)
+                    │
+                    ▼
+          Model Comparison
+                    │
+                    ▼
+           Explainable AI
+             (SHAP, LIME)
+                    │
+                    ▼
+               Final Results
+
+ ## 📊 Expected Outcome
 
 - Accurate classification of activities
 - Performance comparison between ML and DL models
 - Identification of best performing algorithm
-
----
-
-## 📌 Current Progress
-
-- Dataset loaded successfully
-- Data preprocessing verified
-- Baseline model implementation in progress
+              
